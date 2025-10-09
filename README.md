@@ -103,6 +103,11 @@ Langkah:
 4. Jalankan "Check for Duplicates"
 5. Review manual untuk duplikat yang terlewat
 
+Deduplicate otomatis
+```url
+https://colab.research.google.com/drive/1dK1OTfULLtE1d9Gd-a5iWjef9h8PjUD2?usp=sharing
+```
+
 ### Prisma Flowchart
 
 ```txt
