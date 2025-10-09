@@ -1,164 +1,244 @@
 Duplicate Report
-Generated: 2025-10-09 06:14:01
-Total duplicates found: 10
+Generated: 2025-10-09 06:22:35
+Total duplicates found: 15
 
 
 ======================================================================
 Duplicate #1 (Detection: doi)
 ======================================================================
 
-KEPT (from scopus_cleaned_renamed (1).bib):
-  Citation Key: Meng2024Semanticsguided
-  Title: semanticsguided hierarchical feature encoding generative adv...
-  Year: 2024
-  DOI: 10.1109/tnsre.2024.3377698
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Ma2025Brainclip
+  Title: brainclip brain representation via clip for generic natural ...
+  Year: 2025
+  DOI: 10.1109/tmi.2025.3537287
 
-REMOVED (from ieee_cleaned_renamed (1).bib):
-  Citation Key: Meng2024Semanticsguided
-  Title: semanticsguided hierarchical feature encoding generative adv...
-  Year: 2024
-  DOI: 10.1109/tnsre.2024.3377698
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: Ma2025Brainclip
+  Title: brainclip brain representation via clip for generic natural ...
+  Year: 2025
+  DOI: 10.1109/tmi.2025.3537287
 
 ======================================================================
 Duplicate #2 (Detection: doi)
 ======================================================================
 
-KEPT (from scopus_cleaned_renamed (1).bib):
-  Citation Key: Du2022Structured
-  Title: structured neural decoding with multitask transfer learning ...
-  Year: 2022
-  DOI: 10.1109/tnnls.2020.3028167
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Yu2025Robust
+  Title: robust decoding of rich dynamical visual scenes with retinal...
+  Year: 2025
+  DOI: 10.1109/tnnls.2024.3351120
 
-REMOVED (from ieee_cleaned_renamed (1).bib):
-  Citation Key: Du2022Structured
-  Title: structured neural decoding with multitask transfer learning ...
-  Year: 2022
-  DOI: 10.1109/tnnls.2020.3028167
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: Yu2025Robust
+  Title: robust decoding of rich dynamical visual scenes with retinal...
+  Year: 2025
+  DOI: 10.1109/tnnls.2024.3351120
 
 ======================================================================
 Duplicate #3 (Detection: doi)
 ======================================================================
 
-KEPT (from scopus_cleaned_renamed (1).bib):
-  Citation Key: Zhu2025Fmriges
-  Title: fmri2ges cospeech gesture reconstruction from fmri signal wi...
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Chen2025Mindgpt
+  Title: mindgpt interpreting what you see with noninvasive brain rec...
   Year: 2025
-  DOI: 10.1109/tcsvt.2025.3558125
+  DOI: 10.1109/tip.2025.3572784
 
-REMOVED (from ieee_cleaned_renamed (1).bib):
-  Citation Key: Zhu2025Fmriges
-  Title: fmri2ges cospeech gesture reconstruction from fmri signal wi...
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: Chen2025Mindgpt
+  Title: mindgpt interpreting what you see with noninvasive brain rec...
   Year: 2025
-  DOI: 10.1109/tcsvt.2025.3558125
+  DOI: 10.1109/tip.2025.3572784
 
 ======================================================================
 Duplicate #4 (Detection: doi)
 ======================================================================
 
-KEPT (from scopus_cleaned_renamed (1).bib):
-  Citation Key: Chen2025Mindgpt
-  Title: mindgpt interpreting what you see with noninvasive brain rec...
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Zhu2025Fmriges
+  Title: fmri2ges cospeech gesture reconstruction from fmri signal wi...
   Year: 2025
-  DOI: 10.1109/tip.2025.3572784
+  DOI: 10.1109/tcsvt.2025.3558125
 
-REMOVED (from ieee_cleaned_renamed (1).bib):
-  Citation Key: Chen2025Mindgpt
-  Title: mindgpt interpreting what you see with noninvasive brain rec...
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: Zhu2025Fmriges
+  Title: fmri2ges cospeech gesture reconstruction from fmri signal wi...
   Year: 2025
-  DOI: 10.1109/tip.2025.3572784
+  DOI: 10.1109/tcsvt.2025.3558125
 
 ======================================================================
 Duplicate #5 (Detection: doi)
 ======================================================================
 
-KEPT (from scopus_cleaned_renamed (1).bib):
-  Citation Key: Pan2024Reconstructing
-  Title: reconstructing visual stimulus representation from eeg signa...
-  Year: 2024
-  DOI: 10.1109/thms.2024.3407875
-
-REMOVED (from ieee_cleaned_renamed (1).bib):
-  Citation Key: Pan2024Reconstructing
-  Title: reconstructing visual stimulus representation from eeg signa...
-  Year: 2024
-  DOI: 10.1109/thms.2024.3407875
-
-======================================================================
-Duplicate #6 (Detection: doi)
-======================================================================
-
-KEPT (from scopus_cleaned_renamed (1).bib):
-  Citation Key: deLuca2024Predicting
-  Title: predicting visual stimuli from cortical response recorded wi...
-  Year: 2024
-  DOI: 10.1109/jsen.2023.3335613
-
-REMOVED (from ieee_cleaned_renamed (1).bib):
+KEPT (from ieee_cleaned_renamed (2).bib):
   Citation Key: DeLuca2024Predicting
   Title: predicting visual stimuli from cortical response recorded wi...
   Year: 2024
   DOI: 10.1109/jsen.2023.3335613
 
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: deLuca2024Predicting
+  Title: predicting visual stimuli from cortical response recorded wi...
+  Year: 2024
+  DOI: 10.1109/jsen.2023.3335613
+
+======================================================================
+Duplicate #6 (Detection: doi)
+======================================================================
+
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Greenidge2024Efficient
+  Title: efficient decoding of largescale neural population responses...
+  Year: 2024
+  DOI: 10.1162/neco_a_01630
+
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: Greenidge2024Efficient
+  Title: efficient decoding of largescale neural population responses...
+  Year: 2024
+  DOI: 10.1162/neco_a_01630
+
 ======================================================================
 Duplicate #7 (Detection: doi)
 ======================================================================
 
-KEPT (from scopus_cleaned_renamed (1).bib):
-  Citation Key: Yu2025Robust
-  Title: robust decoding of rich dynamical visual scenes with retinal...
-  Year: 2025
-  DOI: 10.1109/tnnls.2024.3351120
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Pan2024Reconstructing
+  Title: reconstructing visual stimulus representation from eeg signa...
+  Year: 2024
+  DOI: 10.1109/thms.2024.3407875
 
-REMOVED (from ieee_cleaned_renamed (1).bib):
-  Citation Key: Yu2025Robust
-  Title: robust decoding of rich dynamical visual scenes with retinal...
-  Year: 2025
-  DOI: 10.1109/tnnls.2024.3351120
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: Pan2024Reconstructing
+  Title: reconstructing visual stimulus representation from eeg signa...
+  Year: 2024
+  DOI: 10.1109/thms.2024.3407875
 
 ======================================================================
 Duplicate #8 (Detection: doi)
 ======================================================================
 
-KEPT (from scopus_cleaned_renamed (1).bib):
-  Citation Key: Luo2023Visual
-  Title: visual image decoding of brain activities using a dual atten...
-  Year: 2023
-  DOI: 10.1109/tcds.2022.3181469
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Meng2024Semanticsguided
+  Title: semanticsguided hierarchical feature encoding generative adv...
+  Year: 2024
+  DOI: 10.1109/tnsre.2024.3377698
 
-REMOVED (from ieee_cleaned_renamed (1).bib):
-  Citation Key: Luo2023Visual
-  Title: visual image decoding of brain activities using a dual atten...
-  Year: 2023
-  DOI: 10.1109/tcds.2022.3181469
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: Meng2024Semanticsguided
+  Title: semanticsguided hierarchical feature encoding generative adv...
+  Year: 2024
+  DOI: 10.1109/tnsre.2024.3377698
 
 ======================================================================
 Duplicate #9 (Detection: doi)
 ======================================================================
 
-KEPT (from scopus_cleaned_renamed (1).bib):
-  Citation Key: Ma2025Brainclip
-  Title: brainclip brain representation via clip for generic natural ...
-  Year: 2025
-  DOI: 10.1109/tmi.2025.3537287
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Luo2023Visual
+  Title: visual image decoding of brain activities using a dual atten...
+  Year: 2023
+  DOI: 10.1109/tcds.2022.3181469
 
-REMOVED (from ieee_cleaned_renamed (1).bib):
-  Citation Key: Ma2025Brainclip
-  Title: brainclip brain representation via clip for generic natural ...
-  Year: 2025
-  DOI: 10.1109/tmi.2025.3537287
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: Luo2023Visual
+  Title: visual image decoding of brain activities using a dual atten...
+  Year: 2023
+  DOI: 10.1109/tcds.2022.3181469
 
 ======================================================================
 Duplicate #10 (Detection: doi)
 ======================================================================
 
-KEPT (from scopus_cleaned_renamed (1).bib):
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Wang2023Decoding
+  Title: decoding the continuous motion imagery trajectories of upper...
+  Year: 2023
+  DOI: 10.1109/tim.2022.3224991
+
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: Wang2023Decoding
+  Title: decoding the continuous motion imagery trajectories of upper...
+  Year: 2023
+  DOI: 10.1109/tim.2022.3224991
+
+======================================================================
+Duplicate #11 (Detection: doi)
+======================================================================
+
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Du2022Structured
+  Title: structured neural decoding with multitask transfer learning ...
+  Year: 2022
+  DOI: 10.1109/tnnls.2020.3028167
+
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: Du2022Structured
+  Title: structured neural decoding with multitask transfer learning ...
+  Year: 2022
+  DOI: 10.1109/tnnls.2020.3028167
+
+======================================================================
+Duplicate #12 (Detection: doi)
+======================================================================
+
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Weng2022Asilomar
+  Title: 2022 56th asilomar conference on signals systems and compute...
+  Year: 2022
+  DOI: 10.1109/ieeeconf56349.2022.10051903
+
+REMOVED (from scopus_cleaned_renamed (2).bib):
   Citation Key: Weng2022Modeling
   Title: modeling the relationship between perisaccadic neural respon...
   Year: 2022
   DOI: 10.1109/ieeeconf56349.2022.10051903
 
-REMOVED (from ieee_cleaned_renamed (1).bib):
-  Citation Key: Weng2022Asilomar
-  Title: 2022 56th asilomar conference on signals systems and compute...
+======================================================================
+Duplicate #13 (Detection: doi)
+======================================================================
+
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Karam2022International
+  Title: 2022 2nd international mobile intelligent and ubiquitous com...
   Year: 2022
-  DOI: 10.1109/ieeeconf56349.2022.10051903
+  DOI: 10.1109/miucc55081.2022.9781770
+
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: Karam2022Deep
+  Title: deep learning approaches for analysing visual stimuli from h...
+  Year: 2022
+  DOI: 10.1109/miucc55081.2022.9781770
+
+======================================================================
+Duplicate #14 (Detection: doi)
+======================================================================
+
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Takada2021Ieee
+  Title: 2021 ieee 10th global conference on consumer electronics gcc...
+  Year: 2021
+  DOI: 10.1109/gcce53005.2021.9622077
+
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: Takada2021Estimating
+  Title: estimating imagined images from brain activities via visual ...
+  Year: 2021
+  DOI: 10.1109/gcce53005.2021.9622077
+
+======================================================================
+Duplicate #15 (Detection: doi)
+======================================================================
+
+KEPT (from ieee_cleaned_renamed (2).bib):
+  Citation Key: Nategh2020Asilomar
+  Title: 2020 54th asilomar conference on signals systems and compute...
+  Year: 2020
+  DOI: 10.1109/ieeeconf51394.2020.9443415
+
+REMOVED (from scopus_cleaned_renamed (2).bib):
+  Citation Key: Nategh2020Decoding
+  Title: decoding neural activity to anticipate eye movements...
+  Year: 2020
+  DOI: 10.1109/ieeeconf51394.2020.9443415
