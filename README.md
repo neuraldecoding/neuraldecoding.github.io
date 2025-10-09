@@ -84,6 +84,7 @@ Hasilnya 52 document:
 
 ### Estimasi Workflow
 
+```txt
 ~140 dokumen (Scopus + IEEE sebelum deduplikasi)
     ↓
 ~100-120 dokumen (Setelah hapus duplikat)
@@ -93,6 +94,7 @@ Hasilnya 52 document:
 ~40-50 dokumen (Setelah full-text review)
     ↓
 ~30-40 dokumen (FINAL untuk analisis)
+```
 
 Langkah: 
 1. Export dari Scopus → format RIS/BibTeX
@@ -103,6 +105,7 @@ Langkah:
 
 ### Prisma Flowchart
 
+```txt
 ┌─────────────────────────────────────┐
 │   Records identified through        │
 │   database searching (n = 140)      │
@@ -121,3 +124,5 @@ Langkah:
 └──────────────┬──────────────────────┘
                ↓
         (dan seterusnya...)
+
+```
