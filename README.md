@@ -129,18 +129,18 @@ Langkah:
 
 ### Inclusion Criteria
 
-IC1. Peer-reviewed journal articles and conference papers
-IC2. Published between 2020-2026
-IC3. Focus on neural/brain decoding for visual information
-IC4. Involves visual cortex or image reconstruction
-IC5. Written in English
-IC6. Full-text available
+* IC1. Peer-reviewed journal articles and conference papers
+* IC2. Published between 2020-2026
+* IC3. Focus on neural/brain decoding for visual information
+* IC4. Involves visual cortex or image reconstruction
+* IC5. Written in English
+* IC6. Full-text available
 
 ### Exclusion Criteria
 
-EC1. Non-peer-reviewed (preprints, technical reports)
-EC2. Review articles, editorials, book chapters
-EC3. Not related to visual decoding/reconstruction
-EC4. Animal studies only (if your focus is human)
-EC5. Duplicate publications
-EC6. Full-text not accessible
+* EC1. Non-peer-reviewed (preprints, technical reports)
+* EC2. Review articles, editorials, book chapters
+* EC3. Not related to visual decoding/reconstruction
+* EC4. Animal studies only (if your focus is human)
+* EC5. Duplicate publications
+* EC6. Full-text not accessible
