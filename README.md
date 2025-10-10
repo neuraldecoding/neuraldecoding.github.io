@@ -1,6 +1,11 @@
 # neuraldecoding.github.io
 Neural Decoding Research
 
+Team:
+* Rolly Maulana Awangga
+* Prof. Dr. SUYANTO S.T., M.Sc.
+* Bedy Purnama, S.Si., M.T., Ph.D.
+
 ## SLR
 
 <img width="934" height="493" alt="image" src="https://github.com/user-attachments/assets/98f5ce97-6761-4799-8eb6-51778ee359c1" />
