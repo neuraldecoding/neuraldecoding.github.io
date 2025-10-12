@@ -53,7 +53,7 @@ https://colab.research.google.com/drive/1dK1OTfULLtE1d9Gd-a5iWjef9h8PjUD2?usp=sh
                ↓
 ┌─────────────────────────────────────┐
 │   Records after duplicates          │
-│   removed (n = 118)                │
+│   removed (n = 118)                 │
 └──────────────┬──────────────────────┘
                ↓
 ┌─────────────────────────────────────┐
