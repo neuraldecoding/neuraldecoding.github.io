@@ -1,0 +1,42 @@
+/* assets/css/style.css */
+
+/* Container responsif dengan max-width */
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+/* Untuk layar kecil/mobile */
+@media (max-width: 768px) {
+  body {
+    padding: 15px;
+    font-size: 16px;
+  }
+}
+
+/* Responsif untuk gambar */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Responsif untuk tabel */
+table {
+  width: 100%;
+  overflow-x: auto;
+  display: block;
+}
+
+/* Responsif untuk code blocks */
+pre {
+  overflow-x: auto;
+  padding: 10px;
+}
+
+/* Diagram Mermaid juga responsif */
+.mermaid {
+  max-width: 100%;
+  overflow-x: auto;
+}
