@@ -1,11 +1,8 @@
 @import "{{ site.theme }}";
 
-/* Main Layout */
 .wrapper {
-  max-width: 1000px;
+  width: 960px;
   margin: 0 auto;
-  padding: 0 20px;
-  position: relative;
 }
 
 header {
@@ -13,15 +10,12 @@ header {
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
-  padding: 30px 20px;
 }
 
 section {
   width: 650px;
   float: right;
-  padding: 30px 0;
-  margin-left: auto;
-  margin-right: auto;
+  padding-bottom: 50px;
 }
 
 h1 {
@@ -47,43 +41,19 @@ p {
   line-height: 1.6;
 }
 
-/* Mermaid diagram styling */
 .mermaid {
   text-align: center;
-  margin: 40px auto;
-  max-width: 100%;
-  width: 800px;
-  display: block;
+  margin: 30px auto;
 }
 
-/* Title styling */
-h1 {
-  color: #1e6bb8;
-  font-size: 2.8em;
-  line-height: 1.2;
-  margin-bottom: 0.5em;
-}
-
-h1 + p {
-  color: #666;
-  font-size: 1.2em;
-  line-height: 1.6;
-  margin-bottom: 2em;
-}
-
-/* Content styling */
-.wrapper {
-  background: #fff;
-}
-
-/* Footer styling */
 footer {
   width: 270px;
+  float: left;
+  position: fixed;
   bottom: 50px;
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
-/* Responsive design */
 @media print, screen and (max-width: 960px) {
   div.wrapper {
     width: auto;
@@ -96,18 +66,21 @@ footer {
     width: auto;
   }
 
-  header {
-    padding-right: 20px;
-  }
-
   section {
+    border: 1px solid #e5e5e5;
+    border-width: 1px 0;
     padding: 20px 0;
-    margin: 0 auto;
-    max-width: 700px;
+    margin: 0 0 20px;
   }
 
   header a small {
     display: inline;
+  }
+
+  header ul {
+    position: absolute;
+    right: 50px;
+    top: 52px;
   }
 }
 
@@ -117,25 +90,37 @@ footer {
   }
 
   header {
-    padding: 20px;
+    padding: 0;
   }
 
-  section {
-    padding: 20px;
+  header ul, header p.view {
+    position: static;
   }
 
-  h1 {
-    font-size: 2em;
+  pre, code {
+    word-wrap: normal;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+    padding: 15px;
   }
 
-  h2 {
-    font-size: 1.5em;
+  header ul {
+    width: 99%;
   }
 
-  .mermaid {
-    margin: 20px auto;
-    width: 95%;
-    min-width: auto;
+  header li, header ul li + li + li {
+    width: 33%;
+  }
+}
+
+@media print {
+  body {
+    padding: 0.4in;
+    font-size: 12pt;
+    color: #444;
   }
 }
 
