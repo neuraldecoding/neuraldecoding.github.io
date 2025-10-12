@@ -19,11 +19,11 @@ Systematic Mapping Study
 
 ```mermaid
 flowchart TD
-    A["140 dokumen (Scopus + IEEE sebelum deduplikasi)"]
-    B["118 dokumen (Setelah hapus duplikat)"]
-    C["~70-80 dokumen (Setelah screening title/abstract)"]
-    D["~40-50 dokumen (Setelah full-text review)"]
-    E["~30-40 dokumen (FINAL untuk analisis)"]
+    A["140 dokumen<br>(Scopus + IEEE sebelum deduplikasi)"]
+    B["118 dokumen<br>(Setelah hapus duplikat)"]
+    C["~70-80 dokumen<br>(Setelah screening title/abstract)"]
+    D["~40-50 dokumen<br>(Setelah full-text review)"]
+    E["~30-40 dokumen\n(FINAL untuk analisis)"]
     
     A --> B --> C --> D --> E
 ```
