@@ -17,32 +17,6 @@ Systematic Mapping Study
 
 ### Hasil Workflow
 
-```txt
-140 dokumen (Scopus + IEEE sebelum deduplikasi)
-    ↓
-118 dokumen (Setelah hapus duplikat)
-    ↓
-~70-80 dokumen (Setelah screening title/abstract)
-    ↓
-~40-50 dokumen (Setelah full-text review)
-    ↓
-~30-40 dokumen (FINAL untuk analisis)
-```
-
-```mermaid
-flowchart TD
-    A[140 dokumen\nScopus + IEEE sebelum deduplikasi] -->|Deduplikasi| B[118 dokumen\nSetelah hapus duplikat]
-    B -->|Screening title/abstract| C[70-80 dokumen\nSetelah screening title/abstract]
-    C -->|Full-text review| D[40-50 dokumen\nSetelah full-text review]
-    D -->|Final| E[30-40 dokumen\nFINAL untuk analisis]
-    
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#bbf,stroke:#333,stroke-width:2px
-    style C fill:#dfd,stroke:#333,stroke-width:2px
-    style D fill:#fdd,stroke:#333,stroke-width:2px
-    style E fill:#dff,stroke:#333,stroke-width:2px
-```
-
 ```mermaid
 flowchart TD
     A["140 dokumen (Scopus + IEEE sebelum deduplikasi)"]
