@@ -15,7 +15,7 @@ Links:
 
 Systematic Mapping Study
 
-### Estimasi Workflow
+### Hasil Workflow
 
 ```txt
 140 dokumen (Scopus + IEEE sebelum deduplikasi)
