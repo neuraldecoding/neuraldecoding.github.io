@@ -26,6 +26,8 @@ flowchart TD
     E["~30-40 dokumen<br>(FINAL untuk analisis)"]
     
     A --> B --> C --> D --> E
+
+    click B "https://neuraldecoding.github.io/sms/bibtex/" _blank
 ```
 
 Langkah: 
