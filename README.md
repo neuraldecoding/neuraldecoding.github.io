@@ -17,7 +17,7 @@ Systematic Mapping Study
 
 ### Hasil Workflow
 
-```mermaid
+<div class="mermaid">
 flowchart TD
     A["140 dokumen<br>Sebelum deduplikasi:<br><a href='/sms/bibtex/scopus.bib' target='_blank'>• Scopus: 88</a><br><a href='/sms/bibtex/ieee.bib' target='_blank'>• IEEE: 52</a>"]
     B["118 dokumen<br>(Setelah hapus duplikat)"]
@@ -28,7 +28,7 @@ flowchart TD
     A --> B --> C --> D --> E
 
     click B "https://neuraldecoding.github.io/sms/bibtex/" _blank
-```
+</div>
 
 Langkah: 
 1. Export dari Scopus → [format BibTeX](/sms/bibtex/scopus.bib)
