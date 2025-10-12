@@ -22,7 +22,21 @@
             curve: 'basis'
           }
         });
-        mermaid.run();
+
+        const mermaidBlocks = document.querySelectorAll('pre.highlight .language-mermaid');
+        mermaidBlocks.forEach((block, index) => {
+            const id = `mermaid-diagram-${index}`;
+            const newDiv = document.createElement('div');
+            newDiv.id = id;
+            newDiv.setAttribute('data-mermaid-src', block.textContent);
+            
+            // Replace the <pre> element with our new <div>
+            block.parentNode.parentNode.replaceWith(newDiv);
+
+            mermaid.render(id, block.textContent, (svgCode) => {
+                newDiv.innerHTML = svgCode;
+            });
+        });
       });
     </script>
   </head>
