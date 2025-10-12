@@ -39,4 +39,12 @@ pre {
 .mermaid {
   max-width: 100%;
   overflow-x: auto;
+  text-align: center;
+  margin: 20px auto;
+}
+
+/* SVG yang dihasilkan Mermaid juga center */
+.mermaid svg {
+  display: inline-block;
+  margin: 0 auto;
 }
