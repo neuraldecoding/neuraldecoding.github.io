@@ -18,9 +18,9 @@ Systematic Mapping Study
 ### Estimasi Workflow
 
 ```txt
-~140 dokumen (Scopus + IEEE sebelum deduplikasi)
+140 dokumen (Scopus + IEEE sebelum deduplikasi)
     ↓
-~100-120 dokumen (Setelah hapus duplikat)
+118 dokumen (Setelah hapus duplikat)
     ↓
 ~70-80 dokumen (Setelah screening title/abstract)
     ↓
