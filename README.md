@@ -30,10 +30,10 @@ Systematic Mapping Study
 ```
 
 Langkah: 
-1. Export dari Scopus → format RIS/BibTeX
-2. Export dari IEEE → format RIS/BibTeX  
-3. Upload ke tools bibtex cleaner and validation untuk dua file tersebut
-4. Jalankan tools hingga hasil akhir deduplikasi sudah di dapatkan
+1. Export dari Scopus → [format BibTeX](/sms/bibtex/scopus.bib)
+2. Export dari IEEE → [format BibTeX](/sms/bibtex/ieee.bib)  
+3. Upload ke [tools bibtex cleaner and validation](https://colab.research.google.com/drive/1dK1OTfULLtE1d9Gd-a5iWjef9h8PjUD2?usp=sharing) untuk dua file tersebut
+4. Jalankan [tools](https://colab.research.google.com/drive/1dK1OTfULLtE1d9Gd-a5iWjef9h8PjUD2?usp=sharing) hingga hasil akhir deduplikasi sudah di dapatkan
 5. Review manual untuk duplikat yang terlewat
 
 Tools validasi dan deduplikasi referensi
