@@ -19,7 +19,7 @@ Systematic Mapping Study
 
 ```mermaid
 flowchart TD
-    A["140 dokumen<br>Sebelum deduplikasi:<br>• Scopus: 88<br>•IEEE: 52"]
+    A["140 dokumen<br>Sebelum deduplikasi:<br>• Scopus: 88<br>• IEEE: 52"]
     B["118 dokumen<br>(Setelah hapus duplikat)"]
     C["~70-80 dokumen<br>(Setelah screening title/abstract)"]
     D["~40-50 dokumen<br>(Setelah full-text review)"]
@@ -40,29 +40,5 @@ Langkah:
 Tools validasi dan deduplikasi referensi
 ```url
 https://colab.research.google.com/drive/1dK1OTfULLtE1d9Gd-a5iWjef9h8PjUD2?usp=sharing
-```
-
-### Prisma Flowchart
-
-```txt
-┌─────────────────────────────────────┐
-│   Records identified through        │
-│   database searching (n = 140)      │
-│   - Scopus: 88                      │
-│   - IEEE: 52                        │
-└──────────────┬──────────────────────┘
-               ↓
-┌─────────────────────────────────────┐
-│   Records after deduplicates        │
-│   removed (n = 118)                 │
-└──────────────┬──────────────────────┘
-               ↓
-┌─────────────────────────────────────┐
-│   Records screened                  │
-│   (title/abstract) (n = ~110)       │
-└──────────────┬──────────────────────┘
-               ↓
-        (dan seterusnya...)
-
 ```
 
