@@ -23,7 +23,7 @@ flowchart TD
     B["118 dokumen<br>(Setelah hapus duplikat)"]
     C["~70-80 dokumen<br>(Setelah screening title/abstract)"]
     D["~40-50 dokumen<br>(Setelah full-text review)"]
-    E["~30-40 dokumen\n(FINAL untuk analisis)"]
+    E["~30-40 dokumen<br>(FINAL untuk analisis)"]
     
     A --> B --> C --> D --> E
 ```
