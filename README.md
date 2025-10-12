@@ -19,7 +19,7 @@ Systematic Mapping Study
 
 ```mermaid
 flowchart TD
-    A["140 dokumen<br>Sebelum deduplikasi:<br>• Scopus: 88<br>• IEEE: 52"]
+    A["140 dokumen<br>Sebelum deduplikasi:<br><a href='/sms/bibtex/scopus.bib' target='_blank'>• Scopus: 88</a><br><a href='/sms/bibtex/ieee.bib' target='_blank'>• IEEE: 52</a>"]
     B["118 dokumen<br>(Setelah hapus duplikat)"]
     C["~70-80 dokumen<br>(Setelah screening title/abstract)"]
     D["~40-50 dokumen<br>(Setelah full-text review)"]
