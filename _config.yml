@@ -3,3 +3,7 @@ plugins:
 - jekyll-remote-theme
 title: Visual Neural Decoding
 description: Neural Decoding and Stimulus Reconstruction Using Neuroimaging and Artificial Intelligence
+theme: jekyll-theme-minimal
+
+kramdown:
+  parse_block_html: true
