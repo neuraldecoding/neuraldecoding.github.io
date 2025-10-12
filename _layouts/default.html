@@ -14,7 +14,6 @@
     <script>
       document.addEventListener('DOMContentLoaded', function () {
         mermaid.initialize({
-          theme: document.body.classList.contains('dark-theme') ? 'dark' : 'default',
           securityLevel: 'loose',
           flowchart: {
             useMaxWidth: true,
@@ -23,20 +22,20 @@
           }
         });
 
-        const mermaidBlocks = document.querySelectorAll('pre.highlight .language-mermaid');
-        mermaidBlocks.forEach((block, index) => {
-            const id = `mermaid-diagram-${index}`;
+        const mermaidCodeBlocks = document.querySelectorAll('code.language-mermaid');
+        mermaidCodeBlocks.forEach(codeBlock => {
+          const mermaidContent = codeBlock.textContent;
+          const container = codeBlock.closest('.highlighter-rouge');
+          
+          if (container && mermaidContent) {
             const newDiv = document.createElement('div');
-            newDiv.id = id;
-            newDiv.setAttribute('data-mermaid-src', block.textContent);
-            
-            // Replace the <pre> element with our new <div>
-            block.parentNode.parentNode.replaceWith(newDiv);
-
-            mermaid.render(id, block.textContent, (svgCode) => {
-                newDiv.innerHTML = svgCode;
-            });
+            newDiv.classList.add('mermaid');
+            newDiv.textContent = mermaidContent;
+            container.parentNode.replaceChild(newDiv, container);
+          }
         });
+
+        mermaid.run();
       });
     </script>
   </head>
