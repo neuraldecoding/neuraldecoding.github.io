@@ -28,6 +28,7 @@ flowchart TD
     A --> B --> C --> D --> E
 
     click B "https://neuraldecoding.github.io/sms/bibtex/" _blank
+	click B "https://neuraldecoding.github.io/sms/screening/" _blank
 </div>
 
 Langkah: 
