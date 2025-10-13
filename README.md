@@ -2,6 +2,11 @@
 
 Research fokus on Visual Neural Decoding Research
 
+Background: 
+* *a vital capability for vision restoration via brain-computer interfaces.*
+* *Understanding neural mechanisms is critical for discerning the nature of brain disorders and enhancing treatment methodologies*
+* *For humans vision is the dominant contributor to the interaction between the external environment and the brain(Yu2025Robust)*
+
 Team:
 * Rolly Maulana Awangga -- rollymaulanaa@student.telkomuniversity.ac.id
 * Prof. Dr. SUYANTO S.T., M.Sc. -- suyanto@telkomuniversity.ac.id
