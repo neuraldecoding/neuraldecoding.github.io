@@ -14,7 +14,8 @@ Team:
 
 Links:
 1. [Systematic Mapping Study](/sms)
-
+2. [Systematic Literature Review](/slr)
+3. [Preliminary Research](/pr)
 
 ## Executive Summary
 
