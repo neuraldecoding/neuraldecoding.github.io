@@ -3,8 +3,8 @@
 Research fokus on Visual Neural Decoding Research
 
 Background: 
-* *a vital capability for vision restoration via brain-computer interfaces.*
-* *Understanding neural mechanisms is critical for discerning the nature of brain disorders and enhancing treatment methodologies*
+* *a vital capability for vision restoration via brain-computer interfaces.(Peng2025Decoding)*
+* *Understanding neural mechanisms is critical for discerning the nature of brain disorders and enhancing treatment methodologies(Shakeripour2025Object)*
 * *For humans vision is the dominant contributor to the interaction between the external environment and the brain(Yu2025Robust)*
 
 Team:
@@ -12,7 +12,7 @@ Team:
 * Prof. Dr. SUYANTO S.T., M.Sc. -- suyanto@telkomuniversity.ac.id
 * Bedy Purnama, S.Si., M.T., Ph.D. -- bedypurnama@telkomuniversity.ac.id
 
-Links:
+Target Semester 1:
 1. [Systematic Mapping Study](/sms)
 2. [Systematic Literature Review](/slr)
 3. [Preliminary Research](/pr)
