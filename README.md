@@ -27,14 +27,14 @@ Systematic Mapping Study
 flowchart TD
     A["140 dokumen<br>Sebelum deduplikasi:<br><a href='/sms/bibtex/scopus.bib' target='_blank'>• Scopus: 88</a><br><a href='/sms/bibtex/ieee.bib' target='_blank'>• IEEE: 52</a>"]
     B["118 dokumen<br>(Setelah hapus duplikat)"]
-    C["~70-80 dokumen<br>(Setelah screening title/abstract)"]
-    D["~40-50 dokumen<br>(Setelah full-text review)"]
-    E["~30-40 dokumen<br>(FINAL untuk analisis)"]
+    C["~ dokumen<br>(Setelah screening title/abstract)"]
+    D["~ dokumen<br>(Setelah full-text review)"]
+    E["~ dokumen<br>(FINAL untuk analisis)"]
     
     A --> B --> C --> D --> E
 
     click B "https://neuraldecoding.github.io/sms/bibtex/" _blank
-	click C "https://neuraldecoding.github.io/sms/screening/" _blank
+	click C "https://neuraldecoding.github.io/slr/screening/" _blank
 </div>
 
 Langkah: 
