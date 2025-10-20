@@ -15,7 +15,11 @@ Team:
 Target Semester 1:
 1. [Systematic Mapping Study](/sms)
 2. [Systematic Literature Review](/slr)
-3. [Preliminary Research](/pr)
+3. [Preliminary Research dengan dataset publik](/pr)
+   * [MindBigData Web](https://mindbigdata.com/opendb/index.html)
+   * [BNCI Horizon](https://bnci-horizon-2020.eu/database/data-sets)
+   * [nilearn miyawaki](https://nilearn.github.io/dev/modules/description/miyawaki2008.html)
+   * [van gerven dataset](https://www.sciencedirect.com/science/article/pii/S1053811920310879)
 
 ## Executive Summary
 
