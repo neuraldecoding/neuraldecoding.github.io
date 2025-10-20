@@ -13,7 +13,7 @@ Team:
 * Bedy Purnama, S.Si., M.T., Ph.D. -- bedypurnama@telkomuniversity.ac.id
 
 Paper Review:
-1. [Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey)](https://arxiv.org/abs/2307.10246)
+1. [Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey) (Oota, arxiv, 2024)](https://arxiv.org/abs/2307.10246)
 
 Target Semester 1:
 1. [Systematic Mapping Study](/sms)
