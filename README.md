@@ -12,6 +12,9 @@ Team:
 * Prof. Dr. SUYANTO S.T., M.Sc. -- suyanto@telkomuniversity.ac.id
 * Bedy Purnama, S.Si., M.T., Ph.D. -- bedypurnama@telkomuniversity.ac.id
 
+Paper Review:
+1. [Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey)](https://arxiv.org/abs/2307.10246)
+
 Target Semester 1:
 1. [Systematic Mapping Study](/sms)
 2. [Systematic Literature Review](/slr)
