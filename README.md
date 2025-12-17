@@ -34,11 +34,12 @@ Referensi
 flowchart TD
     A["140 dokumen<br>Sebelum deduplikasi:<br><a href='/sms/bibtex/scopus.bib' target='_blank'>• Scopus: 88</a><br><a href='/sms/bibtex/ieee.bib' target='_blank'>• IEEE: 52</a>"]
     B["118 dokumen<br>(Setelah hapus duplikat)"]
-    C["~ dokumen<br>(Setelah screening title/abstract)"]
-    D["~ dokumen<br>(Setelah full-text review)"]
-    E["~ dokumen<br>(FINAL untuk analisis)"]
+    C["67 dokumen<br>(Yang bisa di akses)"]
+    D["54 dokumen<br>(Subjek Manusia)"]
+    E["53 dokumen<br>(Neural Decoding Langsung)"]
+	F["53 dokumen<br>(Full-text review)"]
     
-    A --> B --> C --> D --> E
+    A --> B --> C --> D --> E --> F
 
     click B "https://neuraldecoding.github.io/sms/bibtex/" _blank
 	click C "https://neuraldecoding.github.io/slr/screening/" _blank
