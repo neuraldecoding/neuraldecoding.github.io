@@ -13,7 +13,10 @@ Team:
 * Bedy Purnama, S.Si., M.T., Ph.D. -- bedypurnama@telkomuniversity.ac.id
 
 Paper Review:
-1. [Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey) (Oota, arxiv, 2024)](https://arxiv.org/abs/2307.10246)
+1. [Neural decoding for EEG-BCI: from conventional machine learning to deep learning models](https://www.sciencedirect.com/science/article/pii/S2589238X26000021)
+2. [Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey) (Oota, arxiv, 2024)](https://arxiv.org/abs/2307.10246)
+
+[Generative AI Rule](/gen-ai)
 
 Target Semester 1:
 1. [Systematic Mapping Study](/sms)
