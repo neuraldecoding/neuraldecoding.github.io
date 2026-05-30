@@ -12,6 +12,10 @@ Team:
 * Prof. Dr. SUYANTO S.T., M.Sc. -- suyanto@telkomuniversity.ac.id
 * Bedy Purnama, S.Si., M.T., Ph.D. -- bedypurnama@telkomuniversity.ac.id
 
+Tahapan:
+1. Validitas Data : Tema : [Harmonisasi data EEG](https://www.sciencedirect.com/science/article/pii/S1388245724002785) (Wajib data valid sebelum masuk ke Neural Decoding).
+2. Klasifikasi atau Rekonstruksi :  Neural Decoding pada Wearable BCI(EEG)
+
 Paper Review:
 1. [Neural decoding for EEG-BCI: from conventional machine learning to deep learning models](https://www.sciencedirect.com/science/article/pii/S2589238X26000021)
 2. [Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey) (Oota, arxiv, 2024)](https://arxiv.org/abs/2307.10246)
