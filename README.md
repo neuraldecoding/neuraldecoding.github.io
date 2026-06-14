@@ -14,7 +14,7 @@ Team:
 
 Tahapan:
 1. Validitas Data : Tema : [Harmonisasi data EEG](https://www.sciencedirect.com/science/article/pii/S1388245724002785) (Wajib data valid sebelum masuk ke Neural Decoding).
-2. Preprosesning [Riemannian Geometry](https://ieeexplore.ieee.org/document/10748767).Riemannian Tangent Space + SVM
+2. Preprosesning [Riemannian Geometry](https://ieeexplore.ieee.org/document/10748767).Riemannian Tangent Space + SVM. xDAWN, CCA.
 3. Benchmark Tools: [MOABB](https://iopscience.iop.org/article/10.1088/1741-2552/aadea0) dan [SpeechBrain-MOABB](https://www.sciencedirect.com/science/article/pii/S001048252401182X)
 4. Mamba Based EEG Decoding: [CBraMod](https://github.com/wjq-learning/CBraMod) dan [EEGMamba](https://github.com/wjq-learning/EEGMamba)
 5. Klasifikasi atau Rekonstruksi :  Neural Decoding pada Wearable BCI(EEG)
