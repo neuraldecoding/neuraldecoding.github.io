@@ -19,6 +19,12 @@ Tahapan:
 4. Mamba Based EEG Decoding: [CBraMod](https://github.com/wjq-learning/CBraMod) dan [EEGMamba](https://github.com/wjq-learning/EEGMamba)
 5. Klasifikasi atau Rekonstruksi :  Neural Decoding pada Wearable BCI(EEG)
 
+Metode Klasik:
+  • Jika berurusan dengan Motor Imagery: Raw EEG langsung diolah jadi Matriks lalu masuk Riemannian.
+  • Jika berurusan dengan P300 (Visual/Auditory): Raw EEG disaring dulu oleh xDAWN, baru masuk Riemannian.
+  • Jika berurusan dengan SSVEP (Visual Kedip): Raw EEG langsung diolah dengan CCA (tidak pakai Riemannian sama sekali).
+
+
 Paper Review:
 1. [Neural decoding for EEG-BCI: from conventional machine learning to deep learning models](https://www.sciencedirect.com/science/article/pii/S2589238X26000021)
 2. [Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey) (Oota, arxiv, 2024)](https://arxiv.org/abs/2307.10246)
