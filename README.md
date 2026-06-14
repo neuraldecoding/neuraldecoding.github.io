@@ -20,9 +20,9 @@ Tahapan:
 5. Klasifikasi atau Rekonstruksi :  Neural Decoding pada Wearable BCI(EEG)
 
 Metode Klasik:
-  • Jika berurusan dengan Motor Imagery: Raw EEG langsung diolah jadi Matriks lalu masuk Riemannian.
-  • Jika berurusan dengan P300 (Visual/Auditory): Raw EEG disaring dulu oleh xDAWN, baru masuk Riemannian.
-  • Jika berurusan dengan SSVEP (Visual Kedip): Raw EEG langsung diolah dengan CCA (tidak pakai Riemannian sama sekali).
+* Jika berurusan dengan Motor Imagery: Raw EEG langsung diolah jadi Matriks lalu masuk Riemannian.
+* Jika berurusan dengan P300 (Visual/Auditory): Raw EEG disaring dulu oleh xDAWN, baru masuk Riemannian.
+* Jika berurusan dengan SSVEP (Visual Kedip): Raw EEG langsung diolah dengan CCA (tidak pakai Riemannian sama sekali).
 
 
 Paper Review:
