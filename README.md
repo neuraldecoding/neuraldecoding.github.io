@@ -12,7 +12,7 @@ Team:
 * Prof. Dr. SUYANTO S.T., M.Sc. -- suyanto@telkomuniversity.ac.id
 * Bedy Purnama, S.Si., M.T., Ph.D. -- bedypurnama@telkomuniversity.ac.id
 
-CATATAN EVALUASI:
+CATATAN EVALUASI:  
 Pastikan kontribusi sudah disampaikan di Abstrak dan paragraf akhir Bab 1.
 
 Tahapan:
