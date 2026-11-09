@@ -13,7 +13,8 @@ Team:
 * Bedy Purnama, S.Si., M.T., Ph.D. -- bedypurnama@telkomuniversity.ac.id
 
 CATATAN EVALUASI:  
-Pastikan kontribusi sudah disampaikan di Abstrak dan paragraf akhir Bab 1.
+* Pastikan kontribusi sudah disampaikan di Abstrak dan paragraf akhir Bab 1.
+* Sebaiknya di Highlights ada kata-kata yang menegaskan novelty. Misalnya: new, novel, proposed, better, improve, dll.
 
 Tahapan:
 1. Validitas Data : Tema : [Harmonisasi data EEG](https://www.sciencedirect.com/science/article/pii/S1388245724002785) (Wajib data valid sebelum masuk ke Neural Decoding).
